@@ -1,7 +1,7 @@
 # Diwali-Sales-Analysis-Project
 Dataset used for educational and analysis purposes
 
-# 🎆 Diwali Sales Analysis Project
+## 🎆 Diwali Sales Analysis Project
 
 This project performs an exploratory data analysis (EDA) of a retail dataset collected during the Diwali festival season in India. The goal is to extract valuable business insights to improve customer experience, increase sales, and optimize marketing strategies.
 
