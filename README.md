@@ -31,7 +31,9 @@ This project performs an exploratory data analysis (EDA) of a retail dataset col
 - Pandas
 - Matplotlib
 - Seaborn
+- Scikit-learn
 - Jupyter Notebook
+  
 
 ---
 
